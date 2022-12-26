@@ -1,0 +1,15 @@
+C:\Users\edito\Desktop\tui_editor\bin\Debug\net7.0\tui_editor.exe
+C:\Users\edito\Desktop\tui_editor\bin\Debug\net7.0\tui_editor.deps.json
+C:\Users\edito\Desktop\tui_editor\bin\Debug\net7.0\tui_editor.runtimeconfig.json
+C:\Users\edito\Desktop\tui_editor\bin\Debug\net7.0\tui_editor.dll
+C:\Users\edito\Desktop\tui_editor\bin\Debug\net7.0\tui_editor.pdb
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.csproj.AssemblyReference.cache
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.AssemblyInfoInputs.cache
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.AssemblyInfo.cs
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.csproj.CoreCompileInputs.cache
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.dll
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\refint\tui_editor.dll
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.pdb
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\tui_editor.genruntimeconfig.cache
+C:\Users\edito\Desktop\tui_editor\obj\Debug\net7.0\ref\tui_editor.dll
