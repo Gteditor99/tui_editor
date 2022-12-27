@@ -27,6 +27,15 @@ namespace TuiEditor
             else
             {
                 lines = new string[1];
+                lines[0] = "";
+            }
+            if (fileName != "")
+            {
+                lines = File.ReadAllLines(fileName);
+            }
+            else
+            {
+                lines = new string[1];
             }
 
             int cursorLine = 0;
